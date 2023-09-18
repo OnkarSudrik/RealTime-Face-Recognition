@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a real-time face recognition system that can recognize famous celebrities as well as faces of people you want to add to its database. It uses Python and OpenCV along with the Face Recognition library to perform real-time face recognition with a user-friendly interface. The system provides a confidence level for each recognized face and indicates whether a face is unknown.
+This project is a real-time face recognition system that can recognize famous celebrities as well as faces of people you want to add to its database. It uses Python and OpenCV along with the Face Recognition library to perform real-time face recognition . The system provides a confidence level for each recognized face and indicates whether a face is unknown.
 
 ## Features
 
@@ -12,7 +12,6 @@ This project is a real-time face recognition system that can recognize famous ce
 - Maintains a database of known faces from the "Faces" directory.
 - Calculates and displays confidence levels for each recognized face.
 - Highlights recognized faces with green bounding boxes and unknown faces with red bounding boxes.
-- Easy-to-use and user-friendly interface.
 
 ## Prerequisites
 
