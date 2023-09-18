@@ -79,7 +79,7 @@ Follow these steps to set up and use the Real-Time Face Recognition Project:
 
 ## Demo
 
-[Link to a demo video showcasing the project in action](link_to_demo_video.mp4)
+[Link to a demo video showcasing the project in action](https://github.com/OnkarSudrik/RealTime-Face-Recognition/blob/main/Facial_Recoginition_System.mp4)
 
 ## License
 
