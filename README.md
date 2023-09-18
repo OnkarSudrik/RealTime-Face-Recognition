@@ -83,7 +83,7 @@ Follow these steps to set up and use the Real-Time Face Recognition Project:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/runwayml/model-face-recognition/master/LICENSE) file for details.
 
 ## Acknowledgments
 
