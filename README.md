@@ -92,7 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://raw.g
 ## Contributing
 
 If you'd like to contribute to this project, please follow the standard GitHub pull request process.
-
----
-
-Feel free to customize this README to fit your project's specific details, and make sure to replace placeholders with your actual project information, such as your GitHub repository URL and the link to your demo video. This README should help users easily understand and use your project.
