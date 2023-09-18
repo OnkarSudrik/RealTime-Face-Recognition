@@ -1,0 +1,26 @@
+# Project Requirements
+# These are the software dependencies required to run this project successfully.
+
+## Python Version
+Python 3.10.10 (tagsv3.10.10aad5f6a, Feb  7 2023, 172036) [MSC v.1929 64 bit (AMD64)]
+
+## Libraries
+- dlib 19.24.2
+  - Dlib is a toolkit for machine learning and computer vision tasks, including facial recognition.
+  
+- face_recognition 1.2.3
+  - Face_recognition is a Python library for simple and easy face recognition.
+
+- opencv-python 4.8.0
+  - OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library.
+
+- numpy 1.23.0
+  - NumPy is a fundamental package for scientific computing in Python.
+
+## Operating System
+- Windows 10
+
+For installation, you can use a package manager like pip to install these dependencies. 
+Example `pip install -r requirements.txt`
+
+you can also execute Versions.py code from the repo and get info on your versions of libraries 
